@@ -1,0 +1,55 @@
+
+{
+  "id": "FP20261010-001",
+  "date": "2026-10-10",
+  "time": "19:30",
+  "tournament": "FLASH PEAK",
+  "stage": "Final",
+  "team1": "AGILITY FC",
+  "team2": "ALLSTARS",
+  "score1": 3,
+  "score2": 2,
+  "mvp": "Rmax",
+  "players": [
+    {
+      "name": "Rmax",
+      "team": "AGILITY FC",
+      "goals": 2,
+      "assists": 1,
+      "pass": 24,
+      "tackle": 8,
+      "block": 2,
+      "mvp": 1
+    },
+    {
+      "name": "Zenn",
+      "team": "AGILITY FC",
+      "goals": 1,
+      "assists": 1,
+      "pass": 18,
+      "tackle": 6,
+      "block": 1,
+      "mvp": 0
+    },
+    {
+      "name": "Rayy9",
+      "team": "ALLSTARS",
+      "goals": 2,
+      "assists": 0,
+      "pass": 20,
+      "tackle": 7,
+      "block": 3,
+      "mvp": 0
+    },
+    {
+      "name": "Zouu",
+      "team": "ALLSTARS",
+      "goals": 0,
+      "assists": 1,
+      "pass": 15,
+      "tackle": 9,
+      "block": 2,
+      "mvp": 0
+    }
+  ]
+}
